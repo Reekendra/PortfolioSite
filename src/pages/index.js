@@ -63,7 +63,7 @@ const Index = () => (
     <Parallax pages={5}>
       <Hero offset={0}>
         <BigTitle>
-          Hello, <br /> I'm Reekendra.
+          Hello, <br /> <span>I'm Reekendra</span>.
         </BigTitle>
         <Subtitle>
           I'm creating noice web experiences for the next generation of
