@@ -58,7 +58,7 @@ const Footer = styled.footer`
 `;
 
 const Index = () => (
-  <>
+  <div>
     <Layout />
     <Parallax pages={5}>
       <Hero offset={0}>
@@ -144,7 +144,7 @@ const Index = () => (
         </Footer>
       </Contact>
     </Parallax>
-  </>
+  </div>
 );
 
 export default Index;
