@@ -75,32 +75,32 @@ const Index = () => (
         <ProjectsWrapper>
           <ProjectCard
             title="EcommerceWithReact"
-            link="https://github.com/Reekendra/EcommerceInReact"
+            link="https://samazon.netlify.com"
             bg="linear-gradient(to right, #D4145A 0%, #FBB03B 100%)"
           >
             I made this project just following along on youtube.
           </ProjectCard>
           <ProjectCard
-            title="HandMadeCli"
-            link="https://github.com/Reekendra/makeowncli"
+            title="ComplexApp"
+            link="https://appreekendra.herokuapp.com/"
             bg="linear-gradient(to right, #662D8C 0%, #ED1E79 100%)"
           >
-            I just trying to made my own custom cli
+            Complex app with database capability.
           </ProjectCard>
           <ProjectCard
-            title="GatsbyCoffeeShop"
-            link="https://github.com/Reekendra/GatsbyCoffeeShop"
+            title="Resort beach app"
+            link="https://resortbeach.netlify.com"
             bg="linear-gradient(to right, #009245 0%, #FCEE21 100%)"
           >
-            Practicing gatsby skill
+            Luxury rooms finder
           </ProjectCard>
           <ProjectCard
-            title="ZomatoAPI"
-            link="https://github.com/Reekendra/ZomatoAPI"
+            title="Gatsby powered blog + porfolio website"
+            link="https://devblogfolio.netlify.com/"
             bg="linear-gradient(to right, #D585FF 0%, #00FFEE 100%)"
           >
-            Try to build platform where people came and search nearby
-            restaurants
+            Trying to make blog + porfolio website with static site generator
+            technology called gatsby
           </ProjectCard>
         </ProjectsWrapper>
       </Projects>
