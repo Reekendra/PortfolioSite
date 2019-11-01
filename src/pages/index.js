@@ -74,19 +74,20 @@ const Index = () => (
         <Title>Projects</Title>
         <ProjectsWrapper>
           <ProjectCard
-            title="EcommerceWithReact"
-            link="https://samazon.netlify.com"
-            bg="linear-gradient(to right, #D4145A 0%, #FBB03B 100%)"
-          >
-            I made this project just following along on youtube.
-          </ProjectCard>
-          <ProjectCard
             title="ComplexApp"
             link="https://appreekendra.herokuapp.com/"
             bg="linear-gradient(to right, #662D8C 0%, #ED1E79 100%)"
           >
             Complex app with database capability.
           </ProjectCard>
+          <ProjectCard
+            title="EcommerceWithReact"
+            link="https://samazon.netlify.com"
+            bg="linear-gradient(to right, #D4145A 0%, #FBB03B 100%)"
+          >
+            I made this project just following along on youtube.
+          </ProjectCard>
+
           <ProjectCard
             title="Resort beach app"
             link="https://resortbeach.netlify.com"
